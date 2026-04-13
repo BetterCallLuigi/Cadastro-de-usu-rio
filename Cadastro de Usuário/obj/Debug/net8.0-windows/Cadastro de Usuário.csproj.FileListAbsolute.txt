@@ -14,3 +14,20 @@ C:\Users\25218\source\Donwload\Cadastro de Usuário\Cadastro de Usuário\obj\Deb
 C:\Users\25218\source\Donwload\Cadastro de Usuário\Cadastro de Usuário\obj\Debug\net8.0-windows\Cadastro de Usuário.pdb
 C:\Users\25218\source\Donwload\Cadastro de Usuário\Cadastro de Usuário\obj\Debug\net8.0-windows\Cadastro de Usuário.genruntimeconfig.cache
 C:\Users\25218\source\Donwload\Cadastro de Usuário\Cadastro de Usuário\obj\Debug\net8.0-windows\ref\Cadastro de Usuário.dll
+C:\Users\25218\Desktop\Cadastro-de-usu-rio\Cadastro de Usuário\bin\Debug\net8.0-windows\Cadastro de Usuário.exe
+C:\Users\25218\Desktop\Cadastro-de-usu-rio\Cadastro de Usuário\bin\Debug\net8.0-windows\Cadastro de Usuário.deps.json
+C:\Users\25218\Desktop\Cadastro-de-usu-rio\Cadastro de Usuário\bin\Debug\net8.0-windows\Cadastro de Usuário.runtimeconfig.json
+C:\Users\25218\Desktop\Cadastro-de-usu-rio\Cadastro de Usuário\bin\Debug\net8.0-windows\Cadastro de Usuário.dll
+C:\Users\25218\Desktop\Cadastro-de-usu-rio\Cadastro de Usuário\bin\Debug\net8.0-windows\Cadastro de Usuário.pdb
+C:\Users\25218\Desktop\Cadastro-de-usu-rio\Cadastro de Usuário\obj\Debug\net8.0-windows\Cadastro_de_Usuário.Form1.resources
+C:\Users\25218\Desktop\Cadastro-de-usu-rio\Cadastro de Usuário\obj\Debug\net8.0-windows\Cadastro de Usuário.csproj.GenerateResource.cache
+C:\Users\25218\Desktop\Cadastro-de-usu-rio\Cadastro de Usuário\obj\Debug\net8.0-windows\Cadastro de Usuário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25218\Desktop\Cadastro-de-usu-rio\Cadastro de Usuário\obj\Debug\net8.0-windows\Cadastro de Usuário.AssemblyInfoInputs.cache
+C:\Users\25218\Desktop\Cadastro-de-usu-rio\Cadastro de Usuário\obj\Debug\net8.0-windows\Cadastro de Usuário.AssemblyInfo.cs
+C:\Users\25218\Desktop\Cadastro-de-usu-rio\Cadastro de Usuário\obj\Debug\net8.0-windows\Cadastro de Usuário.csproj.CoreCompileInputs.cache
+C:\Users\25218\Desktop\Cadastro-de-usu-rio\Cadastro de Usuário\obj\Debug\net8.0-windows\Cadastro de Usuário.sourcelink.json
+C:\Users\25218\Desktop\Cadastro-de-usu-rio\Cadastro de Usuário\obj\Debug\net8.0-windows\Cadastro de Usuário.dll
+C:\Users\25218\Desktop\Cadastro-de-usu-rio\Cadastro de Usuário\obj\Debug\net8.0-windows\refint\Cadastro de Usuário.dll
+C:\Users\25218\Desktop\Cadastro-de-usu-rio\Cadastro de Usuário\obj\Debug\net8.0-windows\Cadastro de Usuário.pdb
+C:\Users\25218\Desktop\Cadastro-de-usu-rio\Cadastro de Usuário\obj\Debug\net8.0-windows\Cadastro de Usuário.genruntimeconfig.cache
+C:\Users\25218\Desktop\Cadastro-de-usu-rio\Cadastro de Usuário\obj\Debug\net8.0-windows\ref\Cadastro de Usuário.dll
